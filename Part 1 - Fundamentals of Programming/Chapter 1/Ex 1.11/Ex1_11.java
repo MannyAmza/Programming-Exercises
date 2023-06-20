@@ -14,7 +14,6 @@ with a decimal point. For example, 5.0 / 4 is 1.25 and 10 / 4.0 is 2.5.
 public class Ex1_11 {
     public static void main(String[] args) {
         int curr_pop = 312032486;
-        int days_year = 365;
 
         //Rate are in seconds
         double birthRate=7.0, deathRate = 13.0, newImmRate = 45.0;
