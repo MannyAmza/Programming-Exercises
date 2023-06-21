@@ -1,5 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "Part 1 - Fundamentals of Programming/Chapter 2 - Elementary Programming/Ex 2.5",
+        "Part 1 - Fundamentals of Programming/Chapter 2 - Elementary Programming/Ex 2.4",
+        "Part 1 - Fundamentals of Programming/Chapter 2 - Elementary Programming/Ex 2.3",
+        "Part 1 - Fundamentals of Programming/Chapter 2 - Elementary Programming/Ex 2.2",
+        "Part 1 - Fundamentals of Programming/Chapter 2 - Elementary Programming/Ex 2.1",
         "Part 1 - Fundamentals of Programming/Chapter 1/Ex 1.9",
         "Part 1 - Fundamentals of Programming/Chapter 1/Ex 1.8",
         "Part 1 - Fundamentals of Programming/Chapter 1/Ex 1.7",
@@ -12,6 +17,6 @@
         "Part 1 - Fundamentals of Programming/Chapter 1/Ex 1.11",
         "Part 1 - Fundamentals of Programming/Chapter 1/Ex 1.10",
         "Part 1 - Fundamentals of Programming/Chapter 1/Ex 1.1",
-        "Part 1 - Fundamentals of Programming/Chapter 2 - Elementary Programming/Ex 2.1"
+        "Part 1 - Fundamentals of Programming/Chapter 2 - Elementary Programming/Ex 2.6"
     ]
 }
